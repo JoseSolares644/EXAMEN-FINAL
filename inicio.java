@@ -214,11 +214,4 @@ public class inicio {
         System.out.print("\033[H\033[2J");
         System.out.flush();
     }
-
-
-    /*letra.matches("[\\p{L}]+");
-
-    if (scanner.hasNextInt()) {
-        paginas = scanner.nextInt();
-    }*/
 }
