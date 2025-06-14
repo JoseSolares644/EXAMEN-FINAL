@@ -21,7 +21,7 @@ public class funciones {
         }
 
         while (recorrer != null) {
-            System.out.println("Título canción: " + recorrer.titulo + "Artísta: " + recorrer.artista +"Duracion: " + recorrer.duracions);
+            System.out.println("Título canción: " + recorrer.titulo + " | Artísta: " + recorrer.artista +" | Duracion: " + recorrer.duracion);
             recorrer = recorrer.siguiente;
         }
     }
